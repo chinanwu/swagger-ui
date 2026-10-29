@@ -86,6 +86,10 @@
 
       &.version-stamp {
         background-color: #89bf04;
+
+        .version {
+          color: $black;
+        }
       }
 
       pre {
